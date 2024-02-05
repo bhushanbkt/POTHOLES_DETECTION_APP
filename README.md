@@ -2,7 +2,7 @@ Model and Colab-file present in this drive link - https://drive.google.com/drive
 
 # Pothole Detection App
 
-<img src="https://github.com/bhushanbkt/POTHOLES_DETECTION_APP/assets/91175596/e4e68d21-a55b-4e09-9d48-35a34bd7bae2" width="300" height="200" alt="Welcome to POT-HOLE DETECTION">
+<img src="https://github.com/bhushanbkt/POTHOLES_DETECTION_APP/assets/91175596/e4e68d21-a55b-4e09-9d48-35a34bd7bae2" width="200" height="400" alt="Welcome to POT-HOLE DETECTION">
 
 
 

@@ -1,3 +1,5 @@
+Model and Colab-file present in this drive link - https://drive.google.com/drive/folders/1nHhoiVDG-4AmYHVCcbMLacgXOF7kQgoD?usp=sharing
+
 # Pothole Detection App
 ![Welcome to POT-HOLE DETECTION](https://github.com/bhushanbkt/POTHOLES_DETECTION_APP/assets/91175596/e4e68d21-a55b-4e09-9d48-35a34bd7bae2)
 
